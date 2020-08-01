@@ -6,10 +6,15 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 
-## Connect with Astra Rai Daniels
+### Connect with Astra Rai Daniels
  
-     [Website](http://astrarai.tech)  
-      <li><a href="https://glitch.com/@astrarai">Glitch Coding Portfolio</a></li>
+     [Website](http://astrarai.tech)
+     
+     
+      [Glitch Coding Portofolio](https://glitch.com/@astrarai) 
+      
+      
+      
       <li><a href="https://glitch.com/@astrarai" target="_blank">GitHub Programming Portfolio</a></li>
       <li><a href="https://www.linkedin.com/in/astra-rai-daniels-91286b121/" target="_blank">LinkedIn</a></li>
       <li><a href="https://www.instagram.com/astra.rai/?hl=en" >Instagram</a></li>
