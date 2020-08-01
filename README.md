@@ -6,7 +6,7 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 
-### Connect with Astra Rai Daniels
+Connect with Astra Rai Daniels
  
      [Website](http://astrarai.tech)
      
