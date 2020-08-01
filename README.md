@@ -9,9 +9,14 @@ http://github.com - automatic!
 Connect with Astra Rai Daniels
  
      [Website](http://astrarai.tech)
-     
+ 
      
       [Glitch Coding Portofolio](https://glitch.com/@astrarai) 
+      
+      http://github.com - automatic!
+[GitHub](http://github.com)
+
+      
       
       
       
