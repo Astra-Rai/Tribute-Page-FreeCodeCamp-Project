@@ -1,0 +1,83 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: #FFFFFF;
+}
+main {
+    text-align: center;
+}
+#title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: .15em;
+    background: rgb(46,45,47);
+    background: radial-gradient(circle, rgba(46,45,47,1) 0%, rgba(86,86,91,1) 100%);
+    color: #FFFFFF;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+blockquote p {
+    letter-spacing: 1.0px;
+}
+span {
+    color: #CC1128;
+    font-size: 30px;
+    font-weight: lighter;
+}
+cite {
+    font-style: normal;
+    margin-top: 60px;
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+div {
+    margin: auto;
+}
+#quote-author {
+    height: 45px;
+    width: 180px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 35px;
+    text-align: center;
+    letter-spacing: .09em;
+}
+div {
+    display: inline-block;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: 500px auto;
+    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+figcaption {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div {
+    background: rgb(46,45,47);
+    background: radial-gradient(circle, rgba(46,45,47,1) 0%, rgba(86,86,91,1) 100%);
+    border-radius: 5px;
+}
+section#tribute-info {
+    text-align: justify;
+}
+li {
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: #CC1128;
+}
+#contact-astra-rai {
+    margin-top: 30px;
+    margin-left: 200px auto;
+    padding: 10px;
+    width: 300px;
+}
+div h4 {
+    text-align: center;
+}
