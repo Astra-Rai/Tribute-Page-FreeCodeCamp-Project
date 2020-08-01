@@ -8,7 +8,7 @@ http://github.com - automatic!
 
 ## Connect with Astra Rai Daniels
  
-     * [Website](www.astrarai.tech)  
+     [Website](http://www.astrarai.tech)  
       <li><a href="https://glitch.com/@astrarai">Glitch Coding Portfolio</a></li>
       <li><a href="https://glitch.com/@astrarai" target="_blank">GitHub Programming Portfolio</a></li>
       <li><a href="https://www.linkedin.com/in/astra-rai-daniels-91286b121/" target="_blank">LinkedIn</a></li>
